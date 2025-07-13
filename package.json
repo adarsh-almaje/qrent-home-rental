@@ -1,5 +1,5 @@
 {
-  "name": "avinash",
+  "name": "adarsh",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -15,5 +15,7 @@
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.9.16",
     "uuid": "^11.0.3"
+
+    
   }
 }
